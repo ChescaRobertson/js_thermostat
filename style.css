@@ -1,0 +1,34 @@
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  font-family: Impact, fantasy;
+  padding: 20px;
+}
+
+.low-usage {
+    color: green;
+  }
+  
+  .medium-usage {
+    color: black;
+  }
+  
+  .high-usage {
+    color: red;
+  }
+
+  .current_temperature {
+    float: left;
+    width: 49%;
+    background-color: #FFEBCD;
+    text-align: left;
+    padding: 0px;
+  }
+
+  .thermostat_temperature {
+    float: right;
+    width: 45%;
+    background-color: #FFF8DC;
+    text-align: right;
+    padding: 10px;
+  }

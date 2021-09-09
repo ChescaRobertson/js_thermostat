@@ -1,6 +1,6 @@
-# jThermostat
+# Thermostat
 
-A small program that mimicks a thermostat using jasmine testing to apply test driven development.
+A small program that mimicks a thermostat using jasmine testing to apply test driven development.  
 Specification:
 
 * Thermostat starts at 20 degrees
